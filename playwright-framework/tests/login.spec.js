@@ -1,4 +1,3 @@
-
 const { test, expect } = require('@playwright/test');
 
 test('valid login', async ({ page }) => {
